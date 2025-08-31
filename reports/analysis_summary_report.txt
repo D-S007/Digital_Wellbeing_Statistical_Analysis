@@ -1,0 +1,21 @@
+SCREEN TIME IMPACT ANALYSIS - SUMMARY REPORT
+==================================================
+
+DATASET OVERVIEW:
+- Total participants: 99
+- Variables analyzed: 41
+
+SIGNIFICANT FINDINGS (p < 0.05):
+- Physical_Score: Significant difference between high/low screen time groups
+- Psychological_Score: Significant difference between high/low screen time groups
+- Academic_Score: Significant difference between high/low screen time groups
+- Social_Score: Significant difference between high/low screen time groups
+- Habit_Score: Significant difference between high/low screen time groups
+- Overall_Health_Impact: Significant difference between high/low screen time groups
+
+STRONG CORRELATIONS (|r| > 0.3):
+- Habit_Score: r = 0.461 (p = 0.0000)
+- Overall_Health_Impact: r = 0.380 (p = 0.0001)
+
+SIGNIFICANT DEMOGRAPHIC ASSOCIATIONS:
+- Age: χ² = 21.90, p = 0.0013
