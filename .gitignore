@@ -1,7 +1,5 @@
 EXTRA/
 venv/
-# raw data 
-sample coding ,,,,, final-1.xlsx 
 reference_material/
 
 # Notebook checkpoints
