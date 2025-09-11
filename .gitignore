@@ -1,5 +1,21 @@
 EXTRA/
 venv/
+
+# Data files
+raw_data.xlsx
+clean_df.csv
+dataset.xlsx
+final_merged_dataset.csv
+
+# Extra files
+association_analysis.csv
+correlation_analysis.csv
+complete_analysis_results.csv
+final_dataset.csv
+regression_coefficients.csv
+significance_results.csv
+
+
 reference_material/
 
 # Notebook checkpoints
