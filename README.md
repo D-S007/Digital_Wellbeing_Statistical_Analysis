@@ -17,7 +17,7 @@
 
 For a more dynamic and exploratory view of the findings, please visit the interactive dashboard on Tableau Public. The dashboard allows you to filter data by demographic groups and see how health impacts change accordingly.
 ![alt text](reports/Tableau_Dashboard.png)
-**[➡️ View the Interactive Dashboard Here](https://public.tableau.com/views/DigitalWellbeingStatisticalAnalysis/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+**Dashboard Link :** (https://public.tableau.com/views/DigitalWellbeingStatisticalAnalysis/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 -----
 
