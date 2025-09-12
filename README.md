@@ -1,4 +1,4 @@
-# 📊 Digital Wellbeing Analysis: Statistical Impact of Screen Time on Youth Health
+# 📊 Digital Wellbeing Analysis: Statistical Impact of Screen Time on Youth Health Using Python + Tableau
 
 -----
 
@@ -7,7 +7,7 @@
   * **Business Problem:** The pervasive increase in screen time among youth is a significant concern for parents, educators, and healthcare providers. This project was initiated to statistically quantify the impact of screen time on various health domains and to identify the key demographic factors that influence screen time habits.
   * **Solution:** A comprehensive statistical analysis was performed on survey data from 99 children and adolescents. The methodology included data cleaning, feature engineering, independent t-tests, Pearson correlation, Chi-square tests of association, and multiple regression to build a holistic understanding of the issue.
   * **Key Results:** The analysis revealed that **higher screen time is statistically linked to more negative health outcomes across all measured domains** (Physical, Psychological, Academic, Social, and Habitual). **Habit patterns** showed the strongest correlation with screen time (r = 0.46). **Age** was identified as the most significant demographic factor influencing screen time levels.
-  * **Tools & Skills Used:** Python | Pandas | Seaborn | Scikit-Learn | FPDF | python-docx | Statistical Analysis | Data Visualization | Automated Reporting
+  * **Tools & Skills Used:** Python | Pandas | Seaborn | Tableau | Scikit-Learn | FPDF | python-docx | Statistical Analysis | Data Visualization | Automated Reporting
 
 > This analysis provides clear, data-driven evidence that screen time duration is a critical factor in youth wellbeing, offering a foundation for targeted, age-appropriate intervention strategies.
 
