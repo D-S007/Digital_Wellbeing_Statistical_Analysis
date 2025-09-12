@@ -19,8 +19,6 @@ For a more dynamic and exploratory view of the findings, please visit the intera
 ![alt text](reports/Tableau_Dashboard.png)
 **[➡️ View the Interactive Dashboard Here](https://public.tableau.com/views/DigitalWellbeingStatisticalAnalysis/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
----
-
 -----
 
 ## 🏢 Project Background
