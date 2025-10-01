@@ -1,5 +1,7 @@
 EXTRA/
 venv/
+dataset.xlsx
+raw_data.xlsx
 
 # Data files
 raw_data.xlsx
